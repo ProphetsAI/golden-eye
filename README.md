@@ -10,7 +10,7 @@ This is a very eye-friendly theme for VS Code / Codium. Makes working on your co
 
 Please install fonts-firacode. Use "inlineChat.showGutterIcon": "always" or "never".
 
-´´´
+```
 {
     "editor.fontFamily": "Fira Code Retina",
     "editor.fontLigatures": true,
@@ -33,7 +33,7 @@ Please install fonts-firacode. Use "inlineChat.showGutterIcon": "always" or "nev
         "**/.git": false
     }
 }
-´´´
+```
 
 ## Feedback
 
