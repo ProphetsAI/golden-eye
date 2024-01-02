@@ -1,0 +1,27 @@
+{
+  "name": "golden-eye",
+  "displayName": "Golden Eye",
+  "description": "A very eye-friendly theme for VS Code / Codium",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Golden Eye",
+        "uiTheme": "vs",
+        "path": "./themes/golden-eye-color-theme.json"
+      }
+    ]
+  },
+  "author": "Robert Meissner <robert.meissner@outlook.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProphezAI/golden-eye.git"
+  }
+}
