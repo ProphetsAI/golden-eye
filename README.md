@@ -4,6 +4,8 @@ This is a very eye-friendly theme for VS Code / Codium. Makes working on your co
 
 **Enjoy and protect Your eyes!**
 
+![Preview](https://github.com/ProphezAI/golden-eye/blob/main/preview.png)
+
 ## Recommendations
 
 Please install fonts-firacode. Use "inlineChat.showGutterIcon": "always" or "never".
