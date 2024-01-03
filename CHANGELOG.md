@@ -4,6 +4,13 @@ All notable changes to the "golden-eye" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.1]
+
+- Added icon
+- Added transparency to line numbers
+- Added basic colorThemes for HTML, JS, JSON, Markdown
+- Fixed secondary button
+
+## [1.0.0]
 
 - Initial release

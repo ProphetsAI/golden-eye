@@ -2,7 +2,8 @@
   "name": "golden-eye",
   "displayName": "Golden Eye",
   "description": "A very eye-friendly theme for VS Code / Codium",
-  "version": "1.0.0",
+  "icon": "golden-eye.png",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -18,7 +19,8 @@
       }
     ]
   },
-  "author": "Robert Meissner <robert.meissner@outlook.com",
+  "publisher": "ProphezAI",
+  "author": "Robert Meissner <robert.meissner@outlook.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
