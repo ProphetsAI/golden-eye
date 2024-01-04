@@ -4,6 +4,12 @@ All notable changes to the "golden-eye" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2]
+
+- Added recommendations
+- Fixed terminal colors
+- Fixed tab colors
+
 ## [1.0.1]
 
 - Added icon
