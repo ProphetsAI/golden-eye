@@ -38,6 +38,10 @@ For best experience I recommend using [FiraCode Retina Font](https://github.com/
 
 Thanks to [sarah.drasner](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl), [RobbOwen](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) and [WesBos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) for creating very nice-looking themes, which however are not very eye-friendly in most cases and therefore not recommended for everyday use. You should instead use a Light theme if available. Your eyes will thank you!
 
+## VS Codium Users
+
+Users of VSCodium should check out [how to use a different extension gallery](https://github.com/VSCodium/vscodium/blob/master/docs/index.md#how-to-use-a-different-extension-gallery).
+
 ## Feedback
 
 Please help me improve the theme and give feedback to <robert.meissner@outlook.com>.
