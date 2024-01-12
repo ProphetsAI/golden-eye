@@ -4,6 +4,15 @@ All notable changes to the "golden-eye" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [ UNRELEASED ]
+
+## [1.0.3]
+
+- fixed secondary button hover color 
+- fixed Link hover color
+- fixed List dropdown background
+- updated preview
+
 ## [1.0.2]
 
 - Added recommendations
