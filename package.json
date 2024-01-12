@@ -3,7 +3,7 @@
   "displayName": "Golden Eye",
   "description": "A very eye-friendly theme for VS Code / Codium",
   "icon": "golden-eye.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
