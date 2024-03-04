@@ -44,5 +44,5 @@ Users of VSCodium should check out [how to use a different extension gallery](ht
 
 ## Feedback
 
-Please help me improve the theme and give feedback to <robert.meissner@outlook.com>.
+Please help me improve the theme and give feedback to <rome@live.com>.
 
